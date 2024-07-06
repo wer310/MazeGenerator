@@ -2,5 +2,5 @@
 Eller's algoritm!
 
 # Links
-## MazeGenerator
+## MazeGenerator.url
 https://github.com/lpestl/Maze/blob/master/src/functional/MazeGenerator.h
